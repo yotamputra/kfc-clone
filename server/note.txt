@@ -1,0 +1,19 @@
+npx sequelize-cli model:generate --name User --attributes username:string,email:string,password:string,role:string,phoneNumber:string,address:string
+
+npx sequelize-cli model:generate --name Cuisine --attributes name:string,description:string,price:integer,imgUrl:string,createdAt:date,updatedAt:date,categoryId:integer,authorId:integer
+
+npx sequelize-cli model:generate --name Category --attributes name:string
+
+npx sequelize-cli migration:generate --name add-references-to-categoryId
+
+npx sequelize-cli migration:generate --name add-references-to-authorId
+
+
+SEEDING
+npx sequelize-cli seed:generate --name demo-User
+npx sequelize-cli seed:generate --name demo-Category
+npx sequelize-cli seed:generate --name demo-Cuisine
+
+
+PASS= "EZHjUmIeNuQOhGly"
+DATABASE_URL= "postgresql://postgres.opdrbowyygkxdqltbxlo:[YOUR-PASSWORD]@aws-0-ap-southeast-1.pooler.supabase.com:6543/postgres"

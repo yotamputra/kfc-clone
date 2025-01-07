@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Cream Soup",
+    "description": "Delicious cream soup.",
+    "price": 10000,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNKav7G0yxhlu4ZLuLiuMmeZYwjrh1oCmaaw&s",
+    "categoryId": 2,
+    "authorId": 2
+  },
+  {
+    "name": "Fried Chicken",
+    "description": "Delicious deep fried chicken.",
+    "price": 30000,
+    "imgUrl": "https://i0.wp.com/www.savourous.com/wp-content/uploads/2019/05/KFC-chicken1.jpg?fit=3456%2C3456&ssl=1",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Spicy Fried Chicken",
+    "description": "Crispy and spicy fried chicken.",
+    "price": 32000,
+    "imgUrl": "https://i.imgur.com/FQBNK2n.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Chicken Soup",
+    "description": "Warm chicken soup with vegetables.",
+    "price": 12000,
+    "imgUrl": "https://i.imgur.com/oOx6ZO7.jpg",
+    "categoryId": 2,
+    "authorId": 2
+  },
+  {
+    "name": "Zinger Burger",
+    "description": "Crispy fried chicken in a bun with lettuce.",
+    "price": 35000,
+    "imgUrl": "https://i.imgur.com/9RBlIxP.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Corn Soup",
+    "description": "Sweet corn soup with creamy texture.",
+    "price": 15000,
+    "imgUrl": "https://i.imgur.com/aM9qU9C.jpg",
+    "categoryId": 2,
+    "authorId": 2
+  },
+  {
+    "name": "Honey Fried Chicken",
+    "description": "Sweet honey glazed fried chicken.",
+    "price": 33000,
+    "imgUrl": "https://i.imgur.com/bGHvOhX.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Vegetable Soup",
+    "description": "Healthy vegetable soup.",
+    "price": 11000,
+    "imgUrl": "https://i.imgur.com/smXK29E.jpg",
+    "categoryId": 2,
+    "authorId": 2
+  },
+  {
+    "name": "BBQ Fried Chicken",
+    "description": "Fried chicken with smoky BBQ flavor.",
+    "price": 34000,
+    "imgUrl": "https://i.imgur.com/dI2hY5d.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Tomato Soup",
+    "description": "Tangy tomato soup.",
+    "price": 9000,
+    "imgUrl": "https://i.imgur.com/kOdMgcl.jpg",
+    "categoryId": 2,
+    "authorId": 2
+  },
+  {
+    "name": "Garlic Fried Chicken",
+    "description": "Garlic flavored crispy fried chicken.",
+    "price": 31000,
+    "imgUrl": "https://i.imgur.com/WGJUzKq.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Seafood Soup",
+    "description": "Rich seafood soup with a hint of spice.",
+    "price": 18000,
+    "imgUrl": "https://i.imgur.com/TdNi6hn.jpg",
+    "categoryId": 2,
+    "authorId": 2
+  },
+  {
+    "name": "Extra Crispy Fried Chicken",
+    "description": "Double-crispy fried chicken.",
+    "price": 33000,
+    "imgUrl": "https://i.imgur.com/gYgTYQ7.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Mushroom Soup",
+    "description": "Creamy mushroom soup.",
+    "price": 13000,
+    "imgUrl": "https://i.imgur.com/mF5h0fK.jpg",
+    "categoryId": 2,
+    "authorId": 2
+  },
+  {
+    "name": "Cheesy Fried Chicken",
+    "description": "Fried chicken topped with melted cheese.",
+    "price": 34000,
+    "imgUrl": "https://i.imgur.com/GXzM1K4.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Pumpkin Soup",
+    "description": "Delicious pumpkin soup with cream.",
+    "price": 14000,
+    "imgUrl": "https://i.imgur.com/V9GJK3I.jpg",
+    "categoryId": 2,
+    "authorId": 2
+  },
+  {
+    "name": "Hot Wings",
+    "description": "Spicy fried chicken wings.",
+    "price": 32000,
+    "imgUrl": "https://i.imgur.com/evENfse.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Carrot Soup",
+    "description": "Smooth and creamy carrot soup.",
+    "price": 13000,
+    "imgUrl": "https://i.imgur.com/td0BVpt.jpg",
+    "categoryId": 2,
+    "authorId": 2
+  },
+  {
+    "name": "Popcorn Chicken",
+    "description": "Bite-sized crispy fried chicken.",
+    "price": 15000,
+    "imgUrl": "https://i.imgur.com/w1cA9nX.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Beef Soup",
+    "description": "Hearty beef soup with vegetables.",
+    "price": 16000,
+    "imgUrl": "https://i.imgur.com/TTm5y5D.jpg",
+    "categoryId": 2,
+    "authorId": 2
+  }
+]

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home - Restaurant</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="bg-gray-100 font-sans">
+    <header class="bg-white text-red-600 p-4 flex items-center justify-between">
+      <h1 class="italic text-2xl font-bold">Restaurant</h1>
+      <form action="" method="get">
+        <button
+          class="border border-[#EE1C2E] text-[#EE1C2E] bg-white px-4 py-2 font-semibold rounded-lg hover:bg-[#EE1C2E] hover:text-white transition duration-500"
+        >
+          See Categories
+        </button>
+      </form>
+    </header>
+
+    <main class="p-6">
+      <div class="flex justify-between gap-4 mb-6">
+        <input
+          type="text"
+          placeholder="Search"
+          class="border border-gray-300 rounded-lg p-2 w-full sm:w-2/3 lg:w-2/5 mb-4 sm:mb-0 flex-grow"
+        />
+        
+        <select class="border border-gray-300 rounded-lg p-2 w-full sm:w-1/4 lg:w-1/5 mb-4 sm:mb-0">
+          <option value="">Filter</option>
+        </select>
+        
+        <select class="border border-gray-300 rounded-lg p-2 w-full sm:w-1/4 lg:w-1/5">
+          <option value="">Sort By</option>
+        </select>
+      </div>
+      
+
+      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 md:grid-cols-4 gap-6">
+        <div class="bg-white rounded-lg shadow p-4">
+          <img src="" class="w-full h-32 object-cover rounded-lg mb-4" />
+          <h2 class="text-lg font-semibold">Menu</h2>
+          <p class="text-sm text-gray-600">Description</p>
+          <p class="text-red-500 font-bold mt-2">Price</p>
+        </div>
+        <div class="bg-white rounded-lg shadow p-4">
+          <img src="" class="w-full h-32 object-cover rounded-lg mb-4" />
+          <h2 class="text-lg font-semibold">Menu</h2>
+          <p class="text-sm text-gray-600">Description</p>
+          <p class="text-red-500 font-bold mt-2">Price</p>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
